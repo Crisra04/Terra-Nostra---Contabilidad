@@ -1,0 +1,4 @@
+body{font-family:system-ui} .card{padding:12px;border-radius:12px} .btn{padding:8px 12px;border-radius:8px}
+.table-scroll{overflow:auto} .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px} .row{display:flex;gap:8px;align-items:center} .sheet{width:min(820px,92vw);border:none;border-radius:16px;padding:12px} .sheet-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px} .sheet-title{display:flex;gap:8px;align-items:center} .icon-btn{border:1px solid rgba(0,0,0,.1);background:transparent;border-radius:8px;padding:6px 8px} .btn.gold{background:#d4af37;color:#111}
+.badge-warn{border-color:#F59E0B;color:#F59E0B}
+.table-scroll table{width:100%;border-collapse:collapse} .table-scroll th, .table-scroll td{border-bottom:1px solid #eee;padding:6px;text-align:left}
