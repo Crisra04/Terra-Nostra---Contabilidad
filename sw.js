@@ -1,0 +1,1 @@
+const CACHE='tn-contab-v1_10'; self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE)));
